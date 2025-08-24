@@ -1,2 +1,2 @@
-# Data-Engineering-Graduation-Project-
-Data Engineering Graduation Project (DEPI &amp; EYouth)
+# Customer Churn Analysis and Retention Strategy
+Data Engineering Graduation Project (DEPI & EYouth)
